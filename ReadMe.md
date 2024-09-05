@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Multi Head deep neural networks
+I am doing a Masters in Data Science at Chennai Mathematical Institute. I'm currently working on ML Fairness at IIT Bhilai as an intern.
 
 
 ## 🌐 Socials:
